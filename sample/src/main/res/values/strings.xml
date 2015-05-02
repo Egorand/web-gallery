@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web Gallery Sample</string>
+    <string name="select_image">Select image</string>
+</resources>
